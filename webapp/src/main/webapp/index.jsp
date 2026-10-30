@@ -32,13 +32,13 @@
   </div>
 
    <h1> Thankyou, Happy Learning </h1>
-   <h1>Thank You, Happy Learning!</h1>
+   <h1>See you, in our next class on AI application in teaching</h1>
 
    <h1>
     For any queries, please contact us at
 
     <a href="tel:+2348033969786">+2348033969786</a>
-    
+
     or email us at
     <a href="mailto:jilozor@hotmail.com">jilozor@hotmail.com</a>.
    </h1>
